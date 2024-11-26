@@ -1,0 +1,2 @@
+def linux():
+    pass
